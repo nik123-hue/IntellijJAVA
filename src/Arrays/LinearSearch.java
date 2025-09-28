@@ -5,7 +5,7 @@ public class LinearSearch {
         int[] arr = {4, 6, 89, 45, 28, 27};
 
 
-        int x = 30;
+        int x = 89;
         boolean flag= false;
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] == x) {
